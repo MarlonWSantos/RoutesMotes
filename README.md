@@ -1,2 +1,2 @@
 # RoutesMotes
-Armazena as rotas e IPs do motes da rede.
+Armazena as rotas e IPs dos motes da rede.
